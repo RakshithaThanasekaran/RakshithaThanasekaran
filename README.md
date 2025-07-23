@@ -53,5 +53,7 @@ Frontend frameworks and advanced UI design patterns
 🤝 Let’s Connect
 
 I’m always open to new challenges, collaborations, and conversations!
+
 📬 trakshitha10@gmail.com
-🔗 LinkedIn | GitHub
+
+🔗 LinkedIn
