@@ -21,25 +21,33 @@ My work spans everything from designing scalable backends and secure authenticat
 📦 **Art Supplies Lending App**
 
 A Django-powered web app for UVA students to borrow and manage shared art supplies
+
 → Integrated Google OAuth2, PostgreSQL, Amazon S3, and CI/CD with GitHub Actions
+
 → Designed frontend with HTML/CSS and refined UX based on stakeholder testing
 
 📅 **Get-To-Gather**
 
 A full-stack event coordination tool that simplifies group scheduling by syncing availability
+
 → Built with Flask, SQL, Jinja, and flask_login for authentication
+
 → Designed intuitive user flows and responsive UI using Figma and JavaScript
 
 📊 **StreamHorseTV Analytics Dashboard**
 
 Internship project to track creator performance across Instagram, YouTube, and Facebook
+
 → Developed Django backend for 300+ creator profiles with AWS-powered storage
+
 → Automated data pipelines, improving reporting efficiency by 70%
 
 👗 **Haute Data – Fashion Trend Forecasting**
 
 Applied machine learning to predict seasonal fashion trends
+
 → Used State Space Models, NumPy, and Pandas to analyze 10+ years of fashion data
+
 → Gained experience in data wrangling and building predictive pipelines
 
 🌱 **Currently Learning**
