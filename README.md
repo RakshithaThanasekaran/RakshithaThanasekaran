@@ -22,8 +22,6 @@ My work spans everything from designing scalable backends and secure authenticat
 
 🚀 **Featured Projects** 
 
-<br>
-
 📦 **Art Supplies Lending App**
 
 A Django-powered web app for UVA students to borrow and manage shared art supplies
