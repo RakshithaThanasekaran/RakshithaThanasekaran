@@ -4,8 +4,9 @@ I'm a Computer Science student at the University of Virginia (Class of 2026) wit
 
 My work spans everything from designing scalable backends and secure authentication flows to crafting responsive UIs. I’m passionate about using technology to solve real problems and make systems more efficient, accessible, and intuitive.
 
+<br>
 
-🔧 **Technical Strengths**
+🔧 **Technical Strengths** 
 
 **Full-Stack Development:** Django, Flask, HTML/CSS, JavaScript, Blazor
 
@@ -17,9 +18,11 @@ My work spans everything from designing scalable backends and secure authenticat
 
 **Software Practices:** Agile (Scrum), OOP, Git, Integration & Unit Testing (JUnit, Mockito)
 
+<br>
 
-🚀 **Featured Projects**
+🚀 **Featured Projects** 
 
+<br>
 
 📦 **Art Supplies Lending App**
 
@@ -29,6 +32,7 @@ A Django-powered web app for UVA students to borrow and manage shared art suppli
 
 → Designed frontend with HTML/CSS and refined UX based on stakeholder testing
 
+<br> 
 
 📅 **Get-To-Gather**
 
@@ -38,6 +42,7 @@ A full-stack event coordination tool that simplifies group scheduling by syncing
 
 → Designed intuitive user flows and responsive UI using Figma and JavaScript
 
+<br>
 
 📊 **StreamHorseTV Analytics Dashboard**
 
@@ -47,6 +52,7 @@ Internship project to track creator performance across Instagram, YouTube, and F
 
 → Automated data pipelines, improving reporting efficiency by 70%
 
+<br>
 
 👗 **Haute Data – Fashion Trend Forecasting**
 
@@ -56,6 +62,7 @@ Applied machine learning to predict seasonal fashion trends
 
 → Gained experience in data wrangling and building predictive pipelines
 
+<br>
 
 🌱 **Currently Learning**
 
@@ -65,6 +72,7 @@ Advanced cloud security practices and distributed computing
 
 Frontend frameworks and advanced UI design patterns
 
+<br>
 
 🤝 **Let’s Connect**
 
